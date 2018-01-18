@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventCreator</string>
+    <string name="title_activity_maps">Map</string>
+    <integer name="com_vk_sdk_AppId">6321041</integer>
+</resources>
